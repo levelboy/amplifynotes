@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "add-to-group"
+    ],
+    "parentResource": "amplifynotesbb019a9f",
+    "functionName": "amplifynotesbb019a9fPostConfirmation",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerTemplate": "PostConfirmation.json.ejs",
+    "roleName": "amplifynotesbb019a9fPostConfirmation",
+    "skipEdit": true,
+    "resourceName": "amplifynotesbb019a9fPostConfirmation"
+}
